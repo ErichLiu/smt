@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-12-08 07:44:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>63216e35db232200a069d540cf9619b2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_65258_myapp_table</sys_name>
